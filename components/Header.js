@@ -9,7 +9,7 @@ export default function Header(){
             <div>
                 <ul class="flex flex-row space-x-6">
                     <li>Home</li>
-                    <li>FLume</li>
+                    <li>TEST</li>
                     <li>Campaigns</li>
                     <li>Generators</li>
                 </ul>
